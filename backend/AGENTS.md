@@ -1,6 +1,6 @@
 # AGENTS.md (backend/app)
 
-Этот файл задаёт рабочие правила для изменений в `/Users/mikelarg/PycharmProjects/giga_agent/backend/app`.
+Этот файл задаёт рабочие правила для изменений в `./giga_agent/backend/app`.
 
 ## 0. Базовые правила разработки
 
